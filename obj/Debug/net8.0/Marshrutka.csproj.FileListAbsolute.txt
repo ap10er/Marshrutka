@@ -19,3 +19,4 @@ C:\Users\ap10er\RiderProjects\Marshrutka\obj\Debug\net8.0\refint\Marshrutka.dll
 C:\Users\ap10er\RiderProjects\Marshrutka\obj\Debug\net8.0\Marshrutka.pdb
 C:\Users\ap10er\RiderProjects\Marshrutka\obj\Debug\net8.0\Marshrutka.genruntimeconfig.cache
 C:\Users\ap10er\RiderProjects\Marshrutka\obj\Debug\net8.0\ref\Marshrutka.dll
+C:\Users\ap10er\RiderProjects\Marshrutka\obj\Debug\net8.0\Marshrutka.sourcelink.json

@@ -49,6 +49,9 @@ namespace Marshrutka
                 IList<IWebElement> to = driver.FindElements(By.ClassName("multiselect__tags"));
                 to[3].Click();
                 place[264].Click();
+                
+                IList<IWebElement> Stime = driver.FindElements(By.ClassName("el-button__text"));
+                Stime[9].Click();
 
 
                 // Проверка наличия свободных мест и заказ билета

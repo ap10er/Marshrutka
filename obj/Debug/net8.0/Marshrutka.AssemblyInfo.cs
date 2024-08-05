@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marshrutka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eac58e7718ee048fe3f9d7e1d3757bc20b85ca3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marshrutka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marshrutka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
